@@ -12,4 +12,5 @@
   <project name="meta-openembedded" path="poky/meta-openembedded" remote="oe" />
   <project name="meta-chaos" revision="master" path="poky/meta-chaos"/>
   <project name="meta-chaos-raspberrypi" revision="master" path="poky/meta-chaos-raspberrypi"/>
+  <project name="meta-wifi-credentials" revision="master" path="poky/meta-wifi-credentials"/>
 </manifest>
